@@ -1,0 +1,32 @@
+nav{
+    background-color: black;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    color: #00ffff;
+    padding: 15px;
+
+
+  
+}
+
+nav li{
+  color: aliceblue;
+  display: inline;
+    margin: 0 0 0 20px;
+
+}
+
+.imgg{
+width: 700px; 
+}
+
+.header{
+  font-size: 30px;
+}
+
+body{
+  background-color: black;
+}
+

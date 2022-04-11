@@ -1,0 +1,29 @@
+.sushi{
+    width: 700px;
+    margin-top: 20px;
+}
+
+.sashimi{
+width: 200px;
+margin-left: 1000px;
+ margin-top: -600px;
+}
+
+.combo1{
+    font-size: 50px;
+}
+
+.preco1{
+    font-size: 50px;
+}
+
+.combo2{
+    font-size: 50px;
+}
+.preco2{
+    font-size: 50px;
+}
+
+.unidade{
+    font-size: 50px;
+}
